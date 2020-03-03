@@ -1,0 +1,38 @@
+[
+  {
+    "name": "winterspring",
+    "ingredients": ["lemongrass", "hibiscus flower", "peppermint"],
+    "recipe": [2, 2, 1],
+    "temperature": 178
+  },
+  {
+    "name": "sleep",
+    "ingredients": ["peppermint", "chamomile"],
+    "recipe": [1, 1],
+    "temperature": 176
+  },
+  {
+    "name": "breathe",
+    "ingredients": [
+      "peppermint",
+      "raspberry leaf",
+      "epimedium",
+      "nettle leaf",
+      "eucalyptus"
+    ],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "heal",
+    "ingredients": [
+      "dandelion root",
+      "chamomile",
+      "mother wort",
+      "raspberry leaf",
+      "nettle leaf"
+    ],
+    "recipe": [1, 1],
+    "temperature": 176
+  }
+]

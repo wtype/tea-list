@@ -1,0 +1,124 @@
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+:root {
+  font-size: 10px;
+  --padding: 7vw;
+  --dark: #0f131a;
+  --light: #ebebeb;
+  --primary: #ca2c41;
+}
+
+::selection {
+  background-color: #ff5252;
+  color: #ffffff;
+}
+
+html {
+  overflow: hidden;
+  height: 100%;
+  background-color: var(--white);
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+  color: white;
+  color: var(--light);
+  -webkit-hyphens: manual;
+  -moz-hyphens: manual;
+  hyphens: manual;
+  background-color: black;
+  background-color: var(--dark);
+}
+
+main {
+  padding: 0 var(--padding);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: 10rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  min-width: 70%;
+  max-width: 700px;
+}
+
+form label {
+  font-size: 2.5rem;
+  filter: brightness(0.7);
+}
+
+form input {
+  padding: 0rem 0.25rem 1rem 0.25rem;
+  color: white;
+  max-width: 500px;
+  margin-top: 2rem;
+  font-size: 2.5rem;
+  border: none;
+  background: inherit;
+  box-shadow: 0px 3px 0px 0px white;
+}
+
+ul {
+  margin-top: 5vmin;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  margin-top: 1rem;
+  font-size: 4rem;
+}
+
+li a {
+  text-decoration: none;
+  margin-top: 1rem;
+  font-size: 4rem;
+  color: inherit;
+}
+
+.glow {
+  background: rgb(106, 255, 106);
+  color: black;
+  padding: 0.5rem 0rem;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+.h1 {
+  font-size: 4rem;
+}
+
+.visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
