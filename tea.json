@@ -1,38 +1,98 @@
 [
   {
-    "name": "winterspring",
+    "name": "Winterspring",
     "ingredients": ["lemongrass", "hibiscus flower", "peppermint"],
     "recipe": [2, 2, 1],
     "temperature": 178
   },
   {
-    "name": "sleep",
+    "name": "Sleep",
     "ingredients": ["peppermint", "chamomile"],
     "recipe": [1, 1],
     "temperature": 176
   },
   {
-    "name": "breathe",
-    "ingredients": [
-      "peppermint",
-      "raspberry leaf",
-      "epimedium",
-      "nettle leaf",
-      "eucalyptus"
-    ],
+    "name": "Breathe",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
     "recipe": [3, 2, 1, 2, 1],
     "temperature": 176
   },
   {
-    "name": "heal",
-    "ingredients": [
-      "dandelion root",
-      "chamomile",
-      "mother wort",
-      "raspberry leaf",
-      "nettle leaf"
-    ],
+    "name": "Heal",
+    "ingredients": ["dandelion root", "chamomile", "mother wort", "raspberry leaf", "nettle leaf"],
     "recipe": [1, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Eucalyptus",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Chamomile",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Nettle Leaf",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Lemongrass",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Elder Flower",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Dandelion Root",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Rose",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Skullcap",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Speedwell",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Figwort",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Basil Leaf",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Meadowsweet Flower",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
     "temperature": 176
   }
 ]
