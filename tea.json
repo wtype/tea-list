@@ -95,153 +95,898 @@
     "recipe": [3, 2, 1, 2, 1],
     "temperature": 176
   },
-  { "name": "Spear Thistle" },
-  { "name": "Bee Balm" },
-  { "name": "Sitka Spruce Tree" },
-  { "name": "Ligusticum" },
-  { "name": "Calypso Orchid" },
-  { "name": "Salmonberry" },
-  { "name": "Camas Flower" },
-  { "name": "Thimbleberry" },
-  { "name": "Edible Thistle" },
-  { "name": "Gooseneck Barnacle Leaf Barnacle" },
-  { "name": "California Poppy" },
-  { "name": "Choke Cherry" },
-  { "name": "Pearly Everlasting" },
-  { "name": "Western Red Cedar" },
-  { "name": "Jewelweed" },
-  { "name": "Devils Club" },
-  { "name": "Ashland thistle" },
-  { "name": "blue elderberry" },
-  { "name": "Canada Goldenrod" },
-  { "name": "white goosefoot" },
-  { "name": "Oregon Grape" },
-  { "name": "Low Oregon Grape" },
-  { "name": "Snowberry" },
-  { "name": "Waxberry" },
-  { "name": "Ghostberry" },
-  { "name": "Spotting" },
-  { "name": "Lemon Balm" },
-  { "name": "Siberian miners lettuce" },
-  { "name": "Violet" },
-  { "name": "Round-Leaved Sundew" },
-  { "name": "Small Camas" },
-  { "name": "Fireweed" },
-  { "name": "Field Mustard" },
-  { "name": "Fawn Lily" },
-  { "name": "Common Dandelion" },
-  { "name": "Evergreen huckleberry" },
-  { "name": "Hawthorn" },
-  { "name": "Cleavers" },
-  { "name": "Indian paintbrush" },
-  { "name": "Puffballs" },
-  { "name": "Self Heal Plant" },
-  { "name": "yarrow" },
-  { "name": "Turkey tail" },
-  { "name": "Clover" },
-  { "name": "Sourgrass" },
-  { "name": "Indian Plum" },
-  { "name": "Pacific Blackberry" },
-  { "name": "Artist Conk (Conch)" },
-  { "name": "Blackberry" },
-  { "name": "Stinging nettle" },
-  { "name": "Rocky Mountain beeplant" },
-  { "name": "Oregon grape" },
-  { "name": "plains pricklypear" },
-  { "name": "Oyster Mushroom" },
-  { "name": "Miners Lettuce" },
-  { "name": "Camas" },
-  { "name": "White Fawn Lily" },
-  { "name": "Red-Flowering Currant" },
-  { "name": "Wild Strawberries" },
-  { "name": "Thimble berry" },
-  { "name": "Licorice Fern" },
-  { "name": "Salal" },
-  { "name": "Sword Fern" },
-  { "name": "Mountain Ash" },
-  { "name": "Indian mulberry / noni" },
-  { "name": "nineleaf biscuitroot" },
-  { "name": "Foxglove" },
-  { "name": "Sagebrush" },
-  { "name": "Indian Paint Brush" },
-  { "name": "Lobster Mushroom" },
-  { "name": "Wild Rose with Rose Hips" },
-  { "name": "French plantain" },
-  { "name": "Red elderberry" },
-  { "name": "Wild Onion" },
-  { "name": "Blue Elderberry" },
-  { "name": "Littleleaf Huckleberry" },
-  { "name": "Yellow Water Lily" },
-  { "name": "Comfrey" },
-  { "name": "Lewis' Monkey Flower" },
-  { "name": "Poke weed" },
-  { "name": "Dandelion" },
-  { "name": "Pacific Red cedar}, tree of life" },
-  { "name": "Yellow Prairie Violet" },
-  { "name": "Pacific Crabapple" },
-  { "name": "Western Sword Fern" },
-  { "name": "Sour Plum Tree" },
-  { "name": "Trailing blackberry" },
-  { "name": "Sword fern" },
-  { "name": "Rose hips" },
-  { "name": "Puffball Mushroom" },
-  { "name": "Banana" },
-  { "name": "Lotus Flower" },
-  { "name": "Maidenhair fern" },
-  { "name": "Queen Anne's lace" },
-  { "name": "Chicory" },
-  { "name": "Bracken fern" },
-  { "name": "Broadleaf plantain" },
-  { "name": "western chokecherry" },
-  { "name": "Wood sorrel" },
-  { "name": "Serviceberry" },
-  { "name": "pineapple-weed" },
-  { "name": "Common Camas" },
-  { "name": "Black Mustard greens" },
-  { "name": "Daisy" },
-  { "name": "Wild blackberry" },
-  { "name": "Manzanita" },
-  { "name": "St. John's wort" },
-  { "name": "Kinnikinnik aka Uva Ursi" },
-  { "name": "Bleeding Heart" },
-  { "name": "snow currant" },
-  { "name": "Bittersweet Nightshade" },
-  { "name": "Tansy aka Bitter Buttons" },
-  { "name": "narrowleaf cattail" },
-  { "name": "Samphire" },
-  { "name": "Nodding Onion" },
-  { "name": "mountain-ash" },
-  { "name": "Oregon Grape Plant" },
-  { "name": "Burdock" },
-  { "name": "common mallow" },
-  { "name": "Bunchberry" },
-  { "name": "Tall Oregon Grape" },
-  { "name": "narrowleaf willow" },
-  { "name": "Oval leaved blueberry" },
-  { "name": "Douglas Fir" },
-  { "name": "wax currant" },
-  { "name": "Chicory (Blue Corn Flower)" },
-  { "name": "Calendula" },
-  { "name": "Agrimony" },
-  { "name": "Borage" },
-  { "name": "Echinacea (Cone Flower)" },
-  { "name": "Red Clover" },
-  { "name": "common Saint John's wort" },
-  { "name": "black hawthorn" },
-  { "name": "Red Huckleberry" },
-  { "name": "Hazelnut" },
-  { "name": "Canada thistle" },
-  { "name": "Lambs Quarters" },
-  { "name": "Yellow Dock" },
-  { "name": "Common Chickweed" },
-  { "name": "Creeping Woodsorrel" },
-  { "name": "Bigleaf Maple" },
-  { "name": "Mullein" },
-  { "name": "Yarrow" },
-  { "name": "Cattails" },
-  { "name": "Purple Deadnettle" },
-  { "name": "Herb Robert aka Stinky Bob" },
-  { "name": "Trailing Blackberry" },
-  { "name": "Stinging Nettle" },
-  { "name": "Oyster mushroom" }
+  {
+    "name": "Spear Thistle",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Bee Balm",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Sitka Spruce Tree",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Ligusticum",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Calypso Orchid",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Salmonberry",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Camas Flower",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Thimbleberry",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Edible Thistle",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Gooseneck Barnacle Leaf Barnacle",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "California Poppy",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Choke Cherry",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Pearly Everlasting",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Western Red Cedar",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Jewelweed",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Devils Club",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Ashland thistle",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "blue elderberry",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Canada Goldenrod",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "white goosefoot",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Oregon Grape",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Low Oregon Grape",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Snowberry",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Waxberry",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Ghostberry",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Spotting",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Lemon Balm",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Siberian miners lettuce",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Violet",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Round-Leaved Sundew",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Small Camas",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Fireweed",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Field Mustard",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Fawn Lily",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Common Dandelion",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Evergreen huckleberry",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Hawthorn",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Cleavers",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Indian paintbrush",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Puffballs",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Self Heal Plant",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "yarrow",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Turkey tail",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Clover",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Sourgrass",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Indian Plum",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Pacific Blackberry",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Artist Conk (Conch)",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Blackberry",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Stinging nettle",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Rocky Mountain beeplant",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Oregon grape",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "plains pricklypear",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Oyster Mushroom",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Miners Lettuce",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Camas",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "White Fawn Lily",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Red-Flowering Currant",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Wild Strawberries",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Thimble berry",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Licorice Fern",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Salal",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Sword Fern",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Mountain Ash",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Indian mulberry / noni",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "nineleaf biscuitroot",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Foxglove",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Sagebrush",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Indian Paint Brush",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Lobster Mushroom",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Wild Rose with Rose Hips",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "French plantain",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Red elderberry",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Wild Onion",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Blue Elderberry",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Littleleaf Huckleberry",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Yellow Water Lily",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Comfrey",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Lewis' Monkey Flower",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Poke weed",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Dandelion",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Pacific Red cedar}, tree of life",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Yellow Prairie Violet",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Pacific Crabapple",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Western Sword Fern",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Sour Plum Tree",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Trailing blackberry",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Sword fern",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Rose hips",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Puffball Mushroom",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Banana",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Lotus Flower",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Maidenhair fern",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Queen Anne's lace",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Chicory",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Bracken fern",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Broadleaf plantain",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "western chokecherry",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Wood sorrel",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Serviceberry",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "pineapple-weed",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Common Camas",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Black Mustard greens",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Daisy",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Wild blackberry",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Manzanita",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "St. John's wort",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Kinnikinnik aka Uva Ursi",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Bleeding Heart",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "snow currant",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Bittersweet Nightshade",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Tansy aka Bitter Buttons",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "narrowleaf cattail",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Samphire",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Nodding Onion",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "mountain-ash",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Oregon Grape Plant",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Burdock",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "common mallow",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Bunchberry",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Tall Oregon Grape",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "narrowleaf willow",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Oval leaved blueberry",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Douglas Fir",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "wax currant",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Chicory (Blue Corn Flower)",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Calendula",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Agrimony",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Borage",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Echinacea (Cone Flower)",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Red Clover",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "common Saint John's wort",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "black hawthorn",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Red Huckleberry",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Hazelnut",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Canada thistle",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Lambs Quarters",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Yellow Dock",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Common Chickweed",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Creeping Woodsorrel",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Bigleaf Maple",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Mullein",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Yarrow",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Cattails",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Purple Deadnettle",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Herb Robert aka Stinky Bob",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Trailing Blackberry",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Stinging Nettle",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  },
+  {
+    "name": "Oyster mushroom",
+    "ingredients": ["peppermint", "raspberry leaf", "epimedium", "nettle leaf", "eucalyptus"],
+    "recipe": [3, 2, 1, 2, 1],
+    "temperature": 176
+  }
 ]
