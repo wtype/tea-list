@@ -1,6 +1,6 @@
 const teaElement = document.querySelector('#tea');
 const input = document.querySelector('input');
-const endpoint = './tea.json';
+const endpoint = 'https://raw.githubusercontent.com/wtype/tea-list/master/tea.json';
 const tea = [];
 
 function findMatches(word, tea) {
@@ -18,12 +18,12 @@ function displayMatches() {
       const regex = new RegExp(this.value, 'gi');
       const teaName = t.name.replace(
         regex,
-        `<a href="${t.name}" class="glow">${this.value}</a>`
+        `<a href="${t.name}" class="glow">${this.value.toLowerCase()}</a>`
       );
 
       return `
         <li>
-          <a href="${t.name}" class="h1">${teaName}</a>
+          <a href="${t.name}" class="h1">${teaName.toLowerCase()}</a>
         </li>
       `;
     })
